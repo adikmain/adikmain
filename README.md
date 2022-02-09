@@ -1,10 +1,8 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on ... d2synergy
-- 🌱 I’m currently learning ... React/JS
-- 🤔 I’m looking for help with ... front-end
+- 🔭 I’m currently working on ... ItByDesign
+- 🌱 I’m currently learning ... Java
+- 🤔 I’m looking for help with ... Web Services
 - 💬 Ask me about ... good pizza
 - 📫 How to reach me: ... @Ad1qq  (telegram)
-- 😄 Pronouns: ... He
-- ⚡ Fun fact: ... Crocodiles go lying
-
+- ⚡ Fun fact: ... crocodile walks lying down
